@@ -1,0 +1,21 @@
+5 class classification using Mel Spectrograms.
+
+Alahaiya Bilawal: train = 400 samples
+                  test = 100 samples
+                  validation = 40 samples
+
+Bhup: train = 400 samples
+      test = 100 samples
+      validation = 40 samples
+
+Malkauns: train = 400 samples
+          test = 100 samples
+          validation = 40 samples
+
+Miyan malhar: train = 400 samples
+              test = 100 samples
+              validation = 40 samples
+
+Yaman kalyan: train = 400 samples
+              test = 100 samples
+              validation = 40 samples
