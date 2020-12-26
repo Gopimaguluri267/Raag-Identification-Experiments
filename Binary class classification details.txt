@@ -1,0 +1,8 @@
+Alahaiya Bilawal - 600 samples, each of 30seconds length
+Malkauns - 600 samples, each of 30seconds length
+
+Mel spectrograms for each audio sample is generated.
+
+The image of the Mel spectrogram is converted to numpy array and saved as npy files.
+
+CNN is ran over them.
