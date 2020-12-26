@@ -1,0 +1,70 @@
+Total - 1941 samples - 55 ragas 
+
+Carnatic - 1175 samples - 36 ragas - each sample of length 30sec
+
+Hindustani - 766 samples - 19 ragas - each sample of length 30sec
+
+---------------------------------------------------------------------------
+
+CARNATIC:
+
+Anandabhairavi - 30 samples
+Atana - 32 samples
+Begada - 35 samples
+Behag - 35 samples
+Bhairavi - 37 samples
+Bilahari - 30 samples
+Devagandhari - 34 samples
+Gaula - 30 samples
+Husseni - 30 samples
+Kalyani - 30 samples
+Kamas - 30 samples
+Kamavardani - 31 samples
+Kambhoji - 31 samples
+Kanada - 32 samples
+Kapi - 32 samples
+Karaharapriya - 31 samples
+Kedaragaula - 37 samples
+Madhyamavati - 35 samples
+Mayamalavagaula - 31 samples
+Mukhari - 32 samples
+Nata - 37 samples
+Natakurinji - 32 samples
+Purvikalyani - 35 samples
+Ritigaula - 33 samples
+Sahana - 34 samples
+Sama - 32 samples
+Sankarabharanam - 31 samples
+Sanmukhapriya - 33 samples
+Saveri - 30 samples
+Sencurutti - 35 samples
+Sindhubhairavi - 33 samples
+Sri - 35 samples
+Sriranjani - 35 samples
+Surati - 30 samples
+Todi - 33 samples
+Varali - 32 samples
+
+---------------------------------------------------------------------------
+
+HINDUSTANI:
+
+Ahira_bhairav - 35 samples
+Alahaiya_bilaval - 31 samples
+Bairagi - 31 samples
+Basant - 31 samples
+Bhup - 40 samples
+Bilasakhani_todi - 39 samples
+Gaud_malhar - 43 samples
+Hamsadhvani - 30 samples
+Jog - 42 samples
+Madhukauns - 35 samples
+Madhuvanti - 36 samples
+Malkauns - 42 samples
+Miyan_malhar - 45 samples
+Puriya_dhanasri - 41 samples
+Ragesri - 48 samples
+Sri - 56 samples
+Suddh_sarang - 44 samples
+Todi - 54 samples
+Yaman_kalyan - 43 samples
